@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93316" started-at="2020-02-01T05:22:41Z" finished-at="2020-02-01T05:24:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93316" started-at="2020-02-01T05:22:41Z" finished-at="2020-02-01T05:24:14Z">
+      <class name="com.vtiger.purchasescripts.CreatePurchaseOrder">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.vtiger.purchasescripts.CreatePurchaseOrder@64bf3bbf]" name="configBC" is-config="true" duration-ms="11899" started-at="2020-02-01T10:52:41Z" finished-at="2020-02-01T10:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vtiger.purchasescripts.CreatePurchaseOrder@64bf3bbf]" name="configBM" is-config="true" duration-ms="4065" started-at="2020-02-01T10:52:53Z" finished-at="2020-02-01T10:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createPurchase()[pri:0, instance:com.vtiger.purchasescripts.CreatePurchaseOrder@64bf3bbf]" name="createPurchase" duration-ms="28642" started-at="2020-02-01T10:52:57Z" finished-at="2020-02-01T10:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPurchase -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vtiger.purchasescripts.CreatePurchaseOrder@64bf3bbf]" name="configAM" is-config="true" duration-ms="5515" started-at="2020-02-01T10:53:26Z" finished-at="2020-02-01T10:53:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vtiger.purchasescripts.CreatePurchaseOrder@64bf3bbf]" name="configBM" is-config="true" duration-ms="9303" started-at="2020-02-01T10:53:31Z" finished-at="2020-02-01T10:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createVendor()[pri:0, instance:com.vtiger.purchasescripts.CreatePurchaseOrder@64bf3bbf]" name="createVendor" duration-ms="31020" started-at="2020-02-01T10:53:41Z" finished-at="2020-02-01T10:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createVendor -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vtiger.purchasescripts.CreatePurchaseOrder@64bf3bbf]" name="configAM" is-config="true" duration-ms="1978" started-at="2020-02-01T10:54:12Z" finished-at="2020-02-01T10:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.vtiger.purchasescripts.CreatePurchaseOrder@64bf3bbf]" name="configAC" is-config="true" duration-ms="862" started-at="2020-02-01T10:54:14Z" finished-at="2020-02-01T10:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.vtiger.purchasescripts.CreatePurchaseOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
